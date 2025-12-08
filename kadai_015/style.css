@@ -25,3 +25,6 @@ h1 {
 .bold {
   font-weight: bold;
 }
+html {
+  font-size: 20px;
+}
